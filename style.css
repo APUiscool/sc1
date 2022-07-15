@@ -1,0 +1,52 @@
+h1 {
+    color: rgba(194, 0, 253, 0.664);
+    text-align: center;
+    font-size: 250%;
+    margin-top: 2%;
+}
+
+.header{
+    background-color: cadetblue;
+    height: 1.5cm;
+    margin-top: -1.6%;
+}
+
+.grid{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 160%;
+}
+
+body{
+    background-color: #00ffb3;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+.menu{
+    margin-right: 30px;
+}
+
+.menu a{
+    margin-left: 20px;
+}
+
+.item{
+    position: relative;
+}
+
+.item:hover img{
+    opacity: 0.70;
+} 
+
