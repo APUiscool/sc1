@@ -3,6 +3,7 @@ h1 {
     text-align: center;
     font-size: 250%;
     margin-top: 2%;
+    z-index: 6;
 }
 
 .type1{
@@ -19,6 +20,7 @@ h1 {
     background-color: cadetblue;
     height: 1.5cm;
     margin-top: -1.6%;
+    z-index: 5;
 }
 
 .grid{
