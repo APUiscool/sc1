@@ -5,6 +5,16 @@ h1 {
     margin-top: 2%;
 }
 
+.type1{
+    margin: 0px auto;
+    margin-top: -250px;
+    width: 115%;
+    height: 120%;
+    display: block;
+    z-index: 1;
+}
+
+
 .header{
     background-color: cadetblue;
     height: 1.5cm;
