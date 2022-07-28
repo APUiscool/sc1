@@ -14,7 +14,7 @@ h1 {
     z-index: 1;
 }
 
-.h1,.h2,.item{
+h1,h2,.item,.header{
     z-index: 2;
     position: relative;
 }
@@ -57,7 +57,6 @@ a:visited{
 }
 
 .item{
-    position: relative;
     margin: 10px;
 }
 
