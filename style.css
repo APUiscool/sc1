@@ -16,6 +16,7 @@ h1 {
 
 h1,h2,item{
     z-index: 2;
+    position: relative;
 }
 
 .header{
