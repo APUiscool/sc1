@@ -14,7 +14,7 @@ h1 {
     z-index: 1;
 }
 
-.h1,.h2,.item{
+h1,h2,item{
     z-index: 2;
 }
 
