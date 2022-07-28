@@ -57,10 +57,10 @@ a:visited{
 }
 
 .item{
+    position: relative;
     margin: 10px;
 }
 
 .item:hover img{
     opacity: 0.70;
 } 
-
